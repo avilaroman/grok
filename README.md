@@ -1,4 +1,4 @@
-# Grok Starter
+# Grok 
 
 An example of using 𝕏's Grok model in a full-stack application.
 
@@ -9,4 +9,4 @@ Built with:
 - Cloudflare AI Gateway
 - Cloudflare Pages
 
-Check out the [tutorial](https://kristianfreeman.com/grok-starter) to learn how to build and deploy this app.
+Check out the [tutorial](https://kristianfreeman.com/grok-intro) to learn how to build and deploy this app.
