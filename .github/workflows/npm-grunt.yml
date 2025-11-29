@@ -27,5 +27,6 @@ jobs:
         npm install 
         npm audit fix --force
         npm i -g wrangler
+        npm i -g astro
         wrangler dev
         grunt
