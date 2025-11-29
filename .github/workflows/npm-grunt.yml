@@ -25,6 +25,7 @@ jobs:
     - name: Build
       run: |
         npm install 
-        npm i wrangler
+        npm audit fix --force
+        npm i -g wrangler
         wrangler dev
         grunt
